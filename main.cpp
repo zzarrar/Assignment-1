@@ -20,7 +20,7 @@ int main(){
 
     //2nd student using Parameterized constructor
     cout << "\n2. Creating Student:" << endl;
-    Student p2("Ghousia",19,77,3.0);
+    Student p2("Shahzaib",19,77,3.0);
 
     //3rd student using Setter/Getter
     cout << "\n3. Creating Student:" << endl;
